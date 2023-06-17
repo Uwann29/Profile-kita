@@ -137,8 +137,14 @@ body{
   transform: scale(0.9);
 }
 
-@media screen and (max-widht: 922px) {
-  .content, aside {
-    width:100%;
-  }
+@media screen and (max-width:680px){
+
+	#maincontent{
+		width: auto;
+		float: none;
+	}
+	#sidebar{
+		width: auto;
+		float: none;
+	}
 }
