@@ -10,6 +10,7 @@ body{
 .container{
   height: 250px;
   width: 250px;
+  position: center;
   overflow: hidden;
   margin: 0 auto;
   border-radius: 50%;
