@@ -8,8 +8,8 @@ body{
   text-align: center;
 }
 .container{
-  height: 250px;
-  width: 250px;
+  height: 100%;
+  width: 100%;
   overflow: hidden;
   margin: 0 auto;
   border-radius: 50%;
