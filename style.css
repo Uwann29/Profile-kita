@@ -7,11 +7,6 @@ body{
   padding: 50px;
   text-align: center;
 }
-<!-- Center Element Horizontal by igniel.com -->
-.center {
-  display: flex;
-  justify-content: center;
-}
 .container{
   height: 250px;
   width: 250px;
