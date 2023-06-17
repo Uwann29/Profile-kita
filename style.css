@@ -7,7 +7,7 @@ body{
   padding: 50px;
   text-align: center;
 }
-.container{
+.card{
   height: 250px;
   width: 250px;
   overflow: hidden;
@@ -17,13 +17,13 @@ body{
   box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.3);
   background: linear-gradient(45deg, #479eb4, #ffffff);
 }
-.container:hover{
+.card:hover{
   height: 470px;
   width: 350px;
   border-radius: 5px;
   box-shadow: 0px 1px 35px 0px rgba(0,0,0,0.3);
 }
-.container .wrapper img{
+.card .wrapper img{
   position: relative;
   z-index: 20;
   border-radius: 50%;
@@ -35,7 +35,7 @@ body{
   margin: 20px auto;
   transition: all 0.3s ease;
 }
-.container:hover .wrapper img.active{
+.card:hover .wrapper img.active{
   height: 470px;
   width: 350px;
   margin: 0px auto;
