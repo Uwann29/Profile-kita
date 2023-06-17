@@ -11,7 +11,7 @@ body{
   position: center;
   height: 250px;
   width: 250px;
-  position: center;
+
   overflow: hidden;
   margin: 0 auto;
   border-radius: 50%;
@@ -65,6 +65,7 @@ body{
   padding: 1px 20px 10px 20px!important;
 }
 .content .buttons{
+  position: center;
   display: flex;
 }
 .buttons .btn{
