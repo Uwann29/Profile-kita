@@ -8,8 +8,8 @@ body{
   text-align: center;
 }
 .container{
-  height: 100%;
-  width: 100%;
+  height: 250px;
+  width: 250px;
   overflow: hidden;
   margin: 0 auto;
   border-radius: 50%;
@@ -21,7 +21,7 @@ body{
   justify-content: center;
 }
 .container:hover{
-  height: 470px;
+  height: 500px;
   width: 350px;
   border-radius: 5px;
   box-shadow: 0px 1px 35px 0px rgba(0,0,0,0.3);
@@ -45,7 +45,7 @@ body{
   justify-content: center;
 }
 .container:hover .wrapper img.active{
-  height: 470px;
+  height: 5000px;
   width: 350px;
   margin: 0px auto;
   border: none;
