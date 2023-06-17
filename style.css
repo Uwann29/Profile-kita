@@ -17,13 +17,13 @@ body{
   box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.3);
   background: linear-gradient(45deg, #479eb4, #ffffff);
 }
-.card .container:hover{
+.container:hover{
   height: 470px;
   width: 350px;
   border-radius: 5px;
   box-shadow: 0px 1px 35px 0px rgba(0,0,0,0.3);
 }
-.card .container .wrapper img{
+.container .wrapper img{
   position: relative;
   z-index: 20;
   border-radius: 50%;
@@ -35,21 +35,21 @@ body{
   margin: 20px auto;
   transition: all 0.3s ease;
 }
-.card .container:hover .wrapper img.active{
+.container:hover .wrapper img.active{
   height: 470px;
   width: 350px;
   margin: 0px auto;
   border: none;
   border-radius: 5px;
 }
-.card .wrapper .title{
+.wrapper .title{
   color: #fff;
   font-size: 30px;
   font-weight: 500;
   padding: 10px;
   line-height: 25px;
 }
-.card .wrapper .place{
+.wrapper .place{
   color: #fff;
   font-size: 17px;
   line-height: 0px;
