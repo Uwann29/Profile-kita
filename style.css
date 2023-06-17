@@ -16,7 +16,7 @@ body{
   border-radius: 50%;
   transition: all 0.3s ease-in-out;
   box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.3);
-  background: linear-gradient(45deg, #479eb4, #ffffff);
+  background: linear-gradient(50deg, #479eb4, #ffffff);
 }
 .container:hover{
   height: 470px;
