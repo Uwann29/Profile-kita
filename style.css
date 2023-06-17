@@ -82,7 +82,7 @@ body{
   transition: all 0.3s;
 }
 .btn button:hover{
-  transform: scale(0.95);
+  transform: scale(1);
 }
 .container .icons{
   position: relative;
