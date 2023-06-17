@@ -6,6 +6,9 @@ body{
   font-family: 'Poppins',sans-serif;
   padding: 50px;
   text-align: center;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
 }
 .container{
   height: 250px;
@@ -21,7 +24,7 @@ body{
   justify-content: center;
 }
 .container:hover{
-  height: 500px;
+  height: 470px;
   width: 350px;
   border-radius: 5px;
   box-shadow: 0px 1px 35px 0px rgba(0,0,0,0.3);
@@ -45,7 +48,7 @@ body{
   justify-content: center;
 }
 .container:hover .wrapper img.active{
-  height: 5000px;
+  height: 470px;
   width: 350px;
   margin: 0px auto;
   border: none;
